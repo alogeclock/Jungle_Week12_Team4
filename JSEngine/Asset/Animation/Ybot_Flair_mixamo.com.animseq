@@ -1,0 +1,39 @@
+{
+        "AssetPath" : "Asset/Animation/Ybot_Flair_mixamo.com.animseq",
+        "DerivedData" : {
+          "CacheFormat" : "ASEQ",
+          "CachePath" : "Asset/Animation/Bin/Ybot_Flair_mixamo.com.animseq.bin",
+          "CacheVersion" : 3,
+          "Type" : "SampledTrackBinaryCache",
+          "bCacheStoresRawTracks" : true,
+          "bJsonEmbedsRawTracks" : false
+        },
+        "Format" : "JSE.AnimSequence",
+        "FrameRateDenominator" : 1,
+        "FrameRateNumerator" : 30,
+        "ImportSettings" : {
+          "FrameRateDenominator" : 1,
+          "FrameRateNumerator" : 30,
+          "PreviewMeshPath" : "Asset/SkeletalMesh/Ybot dancin/Ybot_Flair.fbx",
+          "SampleRate" : 30
+        },
+        "Notifies" : [],
+        "NumberOfFrames" : 30,
+        "NumberOfKeys" : 31,
+        "PlayLength" : 1.000000,
+        "PreviewMeshPath" : "Asset/SkeletalMesh/Ybot dancin/Ybot_Flair.fbx",
+        "Sequence" : {
+          "NotifyCount" : 0,
+          "NumberOfFrames" : 30,
+          "NumberOfKeys" : 31,
+          "PlayLength" : 1.000000,
+          "TrackCount" : 67
+        },
+        "Source" : {
+          "FilePath" : "Asset/SkeletalMesh/Ybot dancin/Ybot_Flair.fbx",
+          "ImportedStackName" : "mixamo.com"
+        },
+        "SourceFilePath" : "Asset/SkeletalMesh/Ybot dancin/Ybot_Flair.fbx",
+        "SourceStackName" : "mixamo.com",
+        "Version" : 2
+      }
